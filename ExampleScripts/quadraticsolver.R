@@ -1,10 +1,11 @@
-# quadratic formula example
-# from HDS R Basics (objects)
+# ---------------------------------------------
+# Quadratic Formula Solver
+# From HDS R Basics (objects)
 # https://youtu.be/hN4yd-OH9Zk
-# created 2023-01-18
-# updated 2023-09-05
-# update 
-# ------------------------------
+# Created 2023-01-18
+# Updated 2023-09-05
+# Comment: updated some of the descriptions 
+# ---------------------------------------------
 
 # recall standard form: ax² + bx + c = 0
 # solve for x using the quadratic formula
