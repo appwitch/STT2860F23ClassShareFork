@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # The Random Pep Talk Generator
-# The Raccoon Society
+# From: https://theraccoonsociety.com/
 # Created: 2023-05-08
 # Updated: 2023-05-09
 # Comment: updated some of the statements
