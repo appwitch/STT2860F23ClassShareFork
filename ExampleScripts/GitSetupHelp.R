@@ -3,7 +3,7 @@
 # https://stat-jet-asu.github.io/Slides/STT2860/GitHubslides.html
 # Created: 2023-01-30
 # Updated: 2023-01-30
-# Comments: 
+# Comments: none
 # -----------------------------------------------------------------
 
 library(usethis)
